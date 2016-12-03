@@ -277,7 +277,7 @@ input.subtract-points {
 	cursor:pointer;	
 	padding:0px;
 	background-color:#FFFFFF;
-	border:none;
+	border:none; 
 	display:inline;
 }
 /*background-color for questions*/
