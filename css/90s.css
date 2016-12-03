@@ -78,7 +78,7 @@ textarea#title {
 }
 /*numbers for the game category*/
 #game h3 {
-	color:#fff;
+	color:#000;
 	text-align:center;
 	font-size:20px;
 	font-weight:bold;
@@ -132,7 +132,7 @@ vertical-align: middle;
 }*/
 
 #game tbody td.dirty h3 {
-	color:#2a3698;	
+	color:#000;	
 }
 
 #game tfoot td {
